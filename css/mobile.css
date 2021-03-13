@@ -1,0 +1,135 @@
+
+#header{
+  height: 100vh;
+  background: url('../img/img-mobile/image-hero.jpg') no-repeat center center/cover;
+  padding: 1rem 0;
+}
+
+#header .container .navbar, #header .container .navbar .links{
+  display: block;
+  text-align: center;
+}
+
+#header .container .navbar{
+  width: 100%;
+}
+
+#header .container .navbar .links li a{
+  border-bottom: 1px solid #ccc;
+}
+
+#header .container .navbar .links li {
+  margin-bottom: 1rem;
+}
+
+.hero-text{
+  width: 230px;
+  margin-top: 3rem;
+  padding: 1rem 3rem 1rem 1rem;
+}
+
+.hero-text h1{
+  font-size: 2rem;
+  width: 100%;
+}
+
+#feature{
+  position: static;
+  margin: 1rem auto
+}
+
+#feature .container .feature-text{
+  position: static;
+  max-width: 400px;
+  padding: 1rem;
+}
+
+#feature .container .feature-text h2{
+  font-size: 2rem;
+  width: 100%;
+  text-align: center;
+}
+
+#feature .container .feature-img {
+  width: 100%;
+}
+
+#feature .container .feature-text p{
+  text-align: center;
+}
+
+#creation .container > h2{
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+#creation .container .items{
+  display: block;
+}
+
+#creation .container .items .item1{
+  background: url('../img/img-mobile/image-deep-earth.jpg') no-repeat center center/cover;
+}
+#creation .container .items .item2{
+  background: url('../img/image-curiosity.jpg') no-repeat center center/cover;
+}
+#creation .container .items .item3{
+  background: url('../img/img-mobile/image-fisheye.jpg') no-repeat center center/cover;
+}
+#creation .container .items .item4{
+  background: url('../img/img-mobile/image-from-above.jpg') no-repeat center center/cover;
+}
+#creation .container .items .item5{
+  background: url('../img/img-mobile/image-grid.jpg') no-repeat center center/cover;
+}
+#creation .container .items .item6{
+  background: url('../img/img-mobile/image-night-arcade.jpg') no-repeat center center/cover;
+}
+#creation .container .items .item7{
+  background: url('../img/img-mobile/image-pocket-borealis.jpg') no-repeat center center/cover;
+}
+#creation .container .items .item8{
+  background: url('../img/img-mobile/image-soccer-team.jpg') no-repeat center center/cover;
+}
+
+#creation .container .items .item{
+  height: 180px;
+  margin-bottom: 1rem;
+}
+
+#footer{
+  background: #000;
+  padding: 1rem 0 2rem;
+  margin-top: 3rem;
+  text-align: center;
+}
+
+#footer  .container{
+  display: block;
+}
+
+#footer .footer-left .links{
+  display: block;
+  text-align: center;
+}
+
+#footer .footer-left h2{
+  font-size: 2rem;
+  text-align: center;
+}
+
+#footer .footer-left .links li{
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+}
+
+#footer .footer-right .links {
+  display: inline-block;
+}
+
+#footer .footer-right p{
+  margin: 1rem 0;
+}
+
+
+
